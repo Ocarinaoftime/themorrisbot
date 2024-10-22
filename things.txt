@@ -1,5 +1,0 @@
-access token: 1326189109698760704-mA5Zl18bIKQipsoEYoRBsVqQidCXGx
-access token secret: CsLwkyPU5ZZKhYfFjvg5CGYbUfwHcxLG11FnZFLbiYkFr
-'AAAAAAAAAAAAAAAAAAAAAF8ewgEAAAAAy3oA6fOXllcUDTeaRJwyvkD2uy4%3DEdx0WThn9ThGA5q2LIpE4dGZZIzwdj9nYV7vwT8YLSupcxGw9b'
-clientId: 'd1NNcFhVTllIOWdrSE96aTM4aWM6MTpjaQ', 
-clientSecret: 'hT2aEzbWjnd-rLnz3W8hkuNSdjxnYSGgdzeTJT8IJ43mLHCr2_'
