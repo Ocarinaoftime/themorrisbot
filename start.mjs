@@ -19,10 +19,10 @@ const quotes = ['Currently having trouble exiting vim :qwkjhklrkjewhrlkwh',
 const images = fs.readdirSync('./images');
 // Instantiate with desired auth type (here's Bearer v2 auth)
 const twitterClient = new TwitterApi({ 
-    appKey: 'LB1R9E95qSigSIYHxqGjAGkZn', 
-    appSecret: 'ZBUu4sp6i5A5qFf9uEGC2dbHUzJq1oaIvNpesUdISSM2Pa5aBO', 
-    accessToken: '1326189109698760704-mA5Zl18bIKQipsoEYoRBsVqQidCXGx',  
-    accessSecret: 'CsLwkyPU5ZZKhYfFjvg5CGYbUfwHcxLG11FnZFLbiYkFr'
+    appKey: '<YOUR APP KEY>', 
+    appSecret: '<YOUR APP SECRET>', 
+    accessToken: '<YOUR ACCESS TOKEN>',  
+    accessSecret: '<YOUR ACCESS SECRET>'
 });
 const rwClient = twitterClient.readWrite;
 async function doStuff() {
