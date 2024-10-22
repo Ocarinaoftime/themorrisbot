@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "twitter-api-v2": "^1.18.0"
+  }
+}
